@@ -1,4 +1,4 @@
-**Boilerplate Generating Script**
+**Boilerplate Generation Script**
 
 This script installs commonly used Flask extensions and creates a simple directory structure for Flask apps. You can add other files as you see fit by editing `generate_boiler_plate`. Functionality will be added as needs dictate :-)
 
