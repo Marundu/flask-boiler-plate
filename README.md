@@ -2,28 +2,6 @@
 
 This script installs commonly used Flask extensions and creates a simple directory structure for Flask apps. You can add other files as you see fit by editing `generate_boiler_plate`. Functionality will be added as needs dictate :-)
 
-The directory structure will look as follows:
-
-.
-+-- app.py
-+-- config.py
-+-- __init__.py
-+-- main.py
-+-- models.py
-+-- requirements.txt
-+-- scripts
-    +-- create_db.py
-+-- static
-    +-- css
-    +-- img
-    +--js
-+-- templates
-    +-- base.html
-    +-- home.html
-    +-- login.html
-    +-- register.html
-+-- views.py
-
 **Getting up and running**
 
 **Assumption** - [`virtualenv`](http://docs.python-guide.org/en/latest/dev/virtualenvs/) is installed.
