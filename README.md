@@ -2,9 +2,9 @@
 
 This script installs commonly used Flask extensions and creates a simple directory structure for Flask apps. You can add other files as you see fit by editing `generate_boiler_plate`. Functionality will be added as needs dictate :-)
 
-The director structure will look like the image in the Wiki (does not show the `venv` folder).
+The director structure will look like the image below (does not show the `venv` folder).
 
-![Here is a screenshot of the directory structure:]
+![Screenshot of the directory structure:]
 (https://github.com/Marundu/flask-boiler-plate/blob/master/flask_boiler_plate_tree_output.png)
 
 **Getting up and running**
