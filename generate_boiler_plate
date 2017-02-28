@@ -1,0 +1,10 @@
+#!/bin/bash
+reset
+virtualenv venv
+. venv/bin/activate
+pip install -r requirements.txt
+mkdir scripts static templates
+touch app.py config.py __init__.py main.py models.py views.py scripts/create_db.py
+mkdir static/css static/js static/img
+touch templates/base.html templates/home.html templates/register.html templates/login.html
+rm generate_boiler_plate README.md
