@@ -5,7 +5,7 @@ This script installs commonly used Flask extensions and creates a simple directo
 The director structure will look like the image in the Wiki (does not show the `venv` folder).
 
 ![Here is a screenshot of the directory structure:]
-(https://github.com/Marundu/flask-boiler-plate/blob/master/flask_boiler_plate_tree_output.png|alt=dir_structure)
+(https://github.com/Marundu/flask-boiler-plate/blob/master/flask_boiler_plate_tree_output.png)
 
 **Getting up and running**
 
