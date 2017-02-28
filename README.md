@@ -11,7 +11,7 @@ The director structure will look like the image below (does not show the `venv` 
 
 **Assumption** - [`virtualenv`](http://docs.python-guide.org/en/latest/dev/virtualenvs/) is installed.
 
-It is _highly_ recommended you install the [Anaconda Python Distribution](https://www.continuum.io/downloads)
+I _highly_ recommended you install the [Anaconda Python Distribution](https://www.continuum.io/downloads). It comes pre-loaded with a lot of tools for Python development.
 
 - Clone the repo.
 - Change the repo name to your project's name.
